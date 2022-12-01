@@ -1,3 +1,8 @@
+[server]
+headless=true
+
+[theme]
+
 [theme]
 base="light"
 backgroundColor="#f5df7d"
