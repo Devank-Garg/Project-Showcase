@@ -4,4 +4,3 @@ DATASET LINK: https://www.kaggle.com/datasets/gpiosenka/100-bird-species
 
 PS: I won the third position among the 70+projects
 
-#test
